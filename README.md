@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharmesh Lakum</h1>
 <h3>I am interested in working for you as a WordPress developer and serving you by providing you with a great website experience and technical support.</h3>
-<br><br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=devdharmesh&theme=dark_lover&no-bg=true" alt="devdharmesh" /></p>
+<br>
 
 <h2 align="center">SKILLS</h2>
 
