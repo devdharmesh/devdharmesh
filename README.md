@@ -27,8 +27,3 @@
 <a href="https://github.com/devdharmesh" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github" width="50" height="50" /></a>
 <a href="https://twitter.com/dharmes95052992" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="twitter" width="50" height="50" /></a>
 <a href="https://stackoverflow.com/users/11518865/dharmesh" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" width="50" height="50" alt="stackoverflow" /></a></p>
-
-<br><br>
-<h2 align="center">Support</h2>
-
-<p align="center"><a href="https://www.buymeacoffee.com/dharmshdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dharmshdev" /></a></p>
