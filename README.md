@@ -12,10 +12,10 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstap" width="50" height="50" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="50" height="50" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="scss" width="50" height="50" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" height="50" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/php-6.svg" alt="php" width="50" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="mysql" width="50" height="50" /></a>
 <a href="https://getcomposer.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="50" height="50" /></a>
-<a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="wordpress" width="50" height="50" /></a>
+<a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="wordpress" width="50" height="50" /></a>
 <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" alt="woocommerce" width="50" height="50" /></a></p>
 
 <br><br>
